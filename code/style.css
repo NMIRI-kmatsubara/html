@@ -1,0 +1,33 @@
+.container {
+    height: 50px;
+    width: 300px;
+    border-radius:10px;
+    background-color: #26a919;
+}
+
+.container h1 {
+    font-family: "arial black";
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+
+.left-container {
+    height: 500px;
+    width: 15%;
+    float:left;
+    background-color:#ffffe0;    
+}
+
+.left-container li{
+    valign: top;
+    padding:5px;
+    list-style: none;
+}
+
+.main-container {
+    height: 500px;
+    width: 85%;
+    float:left;
+
+}
